@@ -28,4 +28,5 @@ npm start
 
 ### TO-DO:
 - [ ] responsive navbar
+- [ ] persistir y listar en el cliente productos y operarios
 - [ ] mejorar estilos de las tablas
